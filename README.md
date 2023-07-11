@@ -6,6 +6,5 @@
 * HTML
 * CSS
 * JavaScript
-* Python
 * C 
 * C#
