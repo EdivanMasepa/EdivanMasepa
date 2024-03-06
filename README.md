@@ -1,4 +1,4 @@
-# EdivanMasepa 🐱‍👤
+# EdivanMasepa 
 ## - Aluno de Análise e desenvolvimento de sistemas
 **Linguagens**
 
